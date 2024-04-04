@@ -26,6 +26,7 @@ Output:
 
 import java.util.*;
 public class Main {
+    //DP Approach
     public static int countWays(int M, int N) {
         int[][] dp = new int[M][N];
         
