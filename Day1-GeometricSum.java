@@ -1,4 +1,4 @@
-/*
+/* 
 Problem Statement:
 Your are given a positive integer k.
 Your task is to find the geometric sum i.e. 1 + 1/2 + 1/4 + 1/8 + _______ + 1/(2^k)
