@@ -26,6 +26,8 @@ Output:
 
 import java.util.*;
 public class Main {
+    
+    //DP Approach
     public static int countWays(int M, int N) {
         int[][] dp = new int[M][N];
         
@@ -42,6 +44,15 @@ public class Main {
         return dp[M - 1][N - 1];
     }
 
+    // Recursive Approach
+    public static int countWays(int M, int N)
+    {
+        if(M == 1 || N == 1)
+        return 1;
+        
+        return CountWays(M-1, N) + CountWays(M, N-1);
+    }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int M = sc.nextInt();
@@ -49,4 +60,3 @@ public class Main {
         System.out.println(countWays(M, N));
     }
 }
-
