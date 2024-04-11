@@ -22,13 +22,18 @@
     <td>Galaxy of Stars</td>
   </tr>
   <tr>
-    <td>5-4-2024</td>
+    <td>8-4-2024</td>
     <td>Day 2</td>
     <td>Generate Paranthesis</td>
   </tr>
   <tr>
     <td>5-4-2024</td>
-    <td>Day 2</td>
+    <td>Day 3</td>
     <td>On a Cube</td>
+  </tr>
+    <tr>
+    <td>11-4-2024</td>
+    <td>Day 4</td>
+    <td>Move Zeros to Last</td>
   </tr>
 </table>
