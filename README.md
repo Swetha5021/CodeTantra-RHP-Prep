@@ -27,7 +27,7 @@
     <td>Generate Paranthesis</td>
   </tr>
   <tr>
-    <td>5-4-2024</td>
+    <td>9-4-2024</td>
     <td>Day 3</td>
     <td>On a Cube</td>
   </tr>
