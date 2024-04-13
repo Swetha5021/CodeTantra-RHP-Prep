@@ -32,8 +32,20 @@
     <td>On a Cube</td>
   </tr>
     <tr>
-    <td>11-4-2024</td>
+    <td>10-4-2024</td>
     <td>Day 4</td>
     <td>Move Zeros to Last</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>11-4-2024</td>
+    <td>Day 5</td>
+    <td>Rotate Array</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>11-4-2024</td>
+    <td>Day 5</td>
+    <td>Two Sum</td>
   </tr>
 </table>
