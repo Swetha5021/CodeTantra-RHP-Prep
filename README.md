@@ -56,11 +56,11 @@
   <tr>
     <td>16-4-2024</td>
     <td>Day 7</td>
-    <td>Primes in Range</td>
+    <td>Pattern Search</td>
   </tr>
     <tr>
     <td>16-4-2024</td>
     <td>Day 7</td>
-    <td>Pattern Search</td>
+    <td>Primes in Range</td>
   </tr>
 </table>
