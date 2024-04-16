@@ -47,4 +47,20 @@
     <td>Day 5</td>
     <td>Two Sum</td>
   </tr>
+    </tr>
+    <tr>
+    <td>15-4-2024</td>
+    <td>Day 6</td>
+    <td>Max Sum</td>
+  </tr>
+  <tr>
+    <td>16-4-2024</td>
+    <td>Day 7</td>
+    <td>Primes in Range</td>
+  </tr>
+    <tr>
+    <td>16-4-2024</td>
+    <td>Day 7</td>
+    <td>Pattern Search</td>
+  </tr>
 </table>
