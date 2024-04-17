@@ -58,9 +58,14 @@
     <td>Day 7</td>
     <td>Pattern Search</td>
   </tr>
-    <tr>
+  <tr>
     <td>16-4-2024</td>
     <td>Day 7</td>
     <td>Primes in Range</td>
+  </tr>
+  <tr>
+    <td>17-4-2024</td>
+    <td>Day 8</td>
+    <td>KMP Algorithm</td>
   </tr>
 </table>
