@@ -103,4 +103,9 @@
     <td>Day 12</td>
     <td>Subset Problem</td>
   </tr>
+  <tr>
+    <td>29-4-2024</td>
+    <td>Day 13</td>
+    <td>Linked List Operations</td>
+  </tr>
 </table>
