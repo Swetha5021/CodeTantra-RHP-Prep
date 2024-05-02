@@ -129,8 +129,8 @@
     <td>Add big numbers using Linked List</td>
   </tr>
   <tr>
-    <td>1-5-2024</td>
-    <td>Day 15</td>
+    <td>2-5-2024</td>
+    <td>Day 16</td>
     <td>Prime using Linked List</td>
   </tr>
 </table>
