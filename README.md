@@ -133,4 +133,9 @@
     <td>Day 16</td>
     <td>Prime using Linked List</td>
   </tr>
+  <tr>
+    <td>6-5-2024</td>
+    <td>Day 17</td>
+    <td>Binary Search Tree Traversals</td>
+  </tr>
 </table>
