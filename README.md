@@ -138,4 +138,9 @@
     <td>Day 17</td>
     <td>Binary Search Tree Traversals</td>
   </tr>
+  <tr>
+    <td>8-5-2024</td>
+    <td>Day 18</td>
+    <td>Balaned BST Using AVL</td>
+  </tr>
 </table>
