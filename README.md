@@ -143,4 +143,9 @@
     <td>Day 18</td>
     <td>Balaned BST Using AVL</td>
   </tr>
+  <tr>
+    <td>9-5-2024</td>
+    <td>Day 19</td>
+    <td>Segment Tree</td>
+  </tr>
 </table>
