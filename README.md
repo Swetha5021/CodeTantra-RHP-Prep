@@ -148,4 +148,9 @@
     <td>Day 19</td>
     <td>Segment Tree</td>
   </tr>
+  <tr>
+    <td>13-5-2024</td>
+    <td>Day 20</td>
+    <td>BFS and DFS in Graph</td>
+  </tr>
 </table>
