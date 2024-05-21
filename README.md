@@ -10,7 +10,7 @@
     <td>Day 1</td>
     <td>Geometric Sum using Recursion</td>
   </tr>
-  <tr>
+  <tr> 
     <td>4-4-2024</td>
     <td>Day 1</td>
     <td>Rover Walk using Recursion</td>
