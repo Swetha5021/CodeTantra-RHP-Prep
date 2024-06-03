@@ -153,4 +153,9 @@
     <td>Day 20</td>
     <td>BFS and DFS in Graph</td>
   </tr>
+  <tr>
+    <td>3-6-2024</td>
+    <td>Day 21</td>
+    <td>Detect Cycles Using Union</td>
+  </tr>
 </table>
