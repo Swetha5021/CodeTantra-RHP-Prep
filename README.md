@@ -1,6 +1,6 @@
-<h1>CodeTantra RHP Training Programs</h1>
+<h1>CodeTantra RHP Training Programs</h1> 
 <table>
-  <tr>
+  <tr> 
     <th>Date</th>
     <th>Day</th>
     <th>Program</th>
@@ -10,7 +10,7 @@
     <td>Day 1</td>
     <td>Geometric Sum using Recursion</td>
   </tr>
-  <tr>
+  <tr> 
     <td>4-4-2024</td>
     <td>Day 1</td>
     <td>Rover Walk using Recursion</td>
@@ -147,5 +147,10 @@
     <td>9-5-2024</td>
     <td>Day 19</td>
     <td>Segment Tree</td>
+  </tr>
+  <tr>
+    <td>13-5-2024</td>
+    <td>Day 20</td>
+    <td>BFS and DFS in Graph</td>
   </tr>
 </table>
