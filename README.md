@@ -158,4 +158,9 @@
     <td>Day 21</td>
     <td>Detect Cycles Using Union</td>
   </tr>
+  <tr>
+    <td>4-6-2024</td>
+    <td>Day 22</td>
+    <td>Kruskals Algorithm</td>
+  </tr>
 </table>
