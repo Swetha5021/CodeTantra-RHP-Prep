@@ -163,4 +163,9 @@
     <td>Day 22</td>
     <td>Kruskals Algorithm</td>
   </tr>
+  <tr>
+    <td>5-6-2024</td>
+    <td>Day 23</td>
+    <td>MST Prims</td>
+  </tr>
 </table>
