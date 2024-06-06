@@ -166,6 +166,11 @@
   <tr>
     <td>5-6-2024</td>
     <td>Day 23</td>
+    <td>Dijkstra Algorithm</td>
+  </tr>
+  <tr>
+    <td>5-6-2024</td>
+    <td>Day 23</td>
     <td>MST Prims</td>
   </tr>
 </table>
