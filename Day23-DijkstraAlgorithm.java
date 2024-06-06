@@ -1,3 +1,7 @@
+// Dijkstra's algorithm, The limitation is it doesn't work on negative edge weights
+// negative cycles.
+// Single source shortest path algorithm ( Similar to Prims i.e. greedy)
+
 import java.util.Scanner;
 
 class ShortestPath {
