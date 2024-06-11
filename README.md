@@ -173,4 +173,14 @@
     <td>Day 23</td>
     <td>MST Prims</td>
   </tr>
+  <tr>
+    <td>10-6-2024</td>
+    <td>Day 24</td>
+    <td>Topological Sort</td>
+  </tr>
+  <tr>
+    <td>11-6-2024</td>
+    <td>Day 25</td>
+    <td>Cycle Detection using DFS Recursion Stack</td>
+  </tr>
 </table>
