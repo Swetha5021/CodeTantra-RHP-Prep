@@ -183,4 +183,9 @@
     <td>Day 25</td>
     <td>Cycle Detection using DFS Recursion Stack</td>
   </tr>
+  <tr>
+    <td>18-6-2024</td>
+    <td>Day 29</td>
+    <td>Cheapest Flights with K Stops</td>
+  </tr>
 </table>
