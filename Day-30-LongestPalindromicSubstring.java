@@ -21,6 +21,12 @@ import java.util.*; // o(n^2)-- O(n) ( only by using 1-D array)
 
 public class Main {
 
+    public static void print(String str, int start, int length) {
+        int end = start + length;
+        System.out.print(str.substring(start, end));
+        System.out.println();
+    }
+
     public static int Solution(String str) {
         int n = str.length();
         boolean table[][] = new boolean[n][n];
