@@ -135,3 +135,27 @@ class Main {
             System.out.print("No");
     }
 }
+
+
+//Bottom up DP approach
+
+import java.util.*;
+class Main { // Bottom up DP
+
+    public static int Catalan(int n) {
+        int table[] = new int[n + 1]; // to store the result of sub problem
+        table[0] = 1;
+        table[1] = 1;
+        for (int i = 2; i <= n; i++) { // n
+            for (int j = 0; j < i; j++) {
+                table[i] = table[i] + (table[j] * table[i - j - 1]); // 2
+            }
+        }
+        return table[n];
+    }
+    public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        System.out.print(Catalan(n));
+    }
+}
