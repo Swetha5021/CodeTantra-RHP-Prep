@@ -1,6 +1,6 @@
 <h1>CodeTantra RHP Training Programs</h1>
 <table>
-  <tr>
+  <tr> 
     <th>Date</th>
     <th>Day</th>
     <th>Program</th>
